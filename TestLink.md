@@ -1,3 +1,3 @@
 # My Second md File
 
-[Back to home] (index.md)
+[Back to home](index.md)
